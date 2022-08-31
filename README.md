@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @raajayy
 - 👀 I’m interested in web development :/
 - 🌱 I’m currently learning 🙄
-- 💞️ I’m looking to collaborate on 🙄🙄
-- 📫 How to reach me, sorry u can't 8)
+- 📫 How to reach me, sorry u can't)
 
 <!---
 raajayy/raajayy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
